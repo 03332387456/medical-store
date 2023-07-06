@@ -1,0 +1,33 @@
+.img-thumbnail:hover {
+    border: 2px solid #000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  }
+
+  .col-md-4{
+    border: 2px solid grey;
+    margin: 20px;
+  }
+
+
+  /* body {
+    background-image: url('https://lh3.googleusercontent.com/AgtuR4D987E-tgxb9DuwVbd__m4tWROPYfx8HpP3Kwjd-XWLGgT8zr72T5324EbgGnO-L6ZqfzpgUujRUDkuTyjJ3DP_BxxiG0Q9sb8z');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+} */
+
+
+
+  body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kLP-r5EAb4Iy9dcq6SUjJn6TTG3w2Gqf8A&usqp=CAU');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+*{font-family: 'Lato', sans-serif;}

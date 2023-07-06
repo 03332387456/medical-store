@@ -1,0 +1,17 @@
+#AllopathicMedications , #HomeopathicMedicines , #SurgicalItems ,#GeneralHealthItems{
+    text-decoration: underline;
+}
+
+
+
+body {
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/5edaacf9b6ac5c00076559df/A-stethoscope-and-clipboard-in-a-doctor-s-office-/960x0.jpg?format=jpg&width=960');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+*{font-family: 'Lato', sans-serif;}
+

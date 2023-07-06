@@ -1,0 +1,33 @@
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+  border: none;  
+  outline: none; 
+  border-left: 10px solid transparent; 
+  border-bottom: 3px solid transparent; 
+  transition: border-color 0.3s; 
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus {
+  border-color: red; /* Change the border color when focused */
+}
+
+
+ body { 
+    background-image: url('https://pbs.twimg.com/media/FwLK75aWAAAP1p3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+*{font-family: 'Lato', sans-serif;}
+
+
+
+
+

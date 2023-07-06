@@ -1,0 +1,11 @@
+
+body {
+    background-image: url('https://www.stephenslaw.com/wp-content/uploads/2020/12/Bottle-of-pills-spills-onto-doctors-desk-1067960972_1258x838.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+*{font-family: 'Lato', sans-serif;}

@@ -1,0 +1,23 @@
+
+
+  .navbar-toggler-icon {
+    color: white;
+    background-color: white;
+    border: none;
+  }
+  .navbar-nav .nav-link:hover {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    /* padding: 10px ; */
+    /* margin: 10px; */
+    font-size: 20px;
+  }
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+*{
+    font-family: 'PT Serif', serif;
+}
